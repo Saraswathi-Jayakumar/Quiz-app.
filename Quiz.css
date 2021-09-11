@@ -1,0 +1,117 @@
+* {
+  font-family: verdana;
+  color: white;
+  background-color: rgb(1, 15, 29);
+}
+body {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  /* justify-content: center; */
+  align-items: center;
+}
+#section {
+  width: 80%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 30px;
+  box-shadow: 0 0 6px 1px;
+  border-radius: 20px;
+  margin: 30px;
+  padding: 20px;
+}
+#section #header {
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  text-align: center;
+}
+#section #header2 {
+  width: 95%;
+  height: fit-content;
+  border-bottom: 2px solid whitesmoke;
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  align-items: center;
+  font-size: 12px;
+  padding-bottom: 25px;
+}
+#section #header2 #caption,
+#marks,
+#timer {
+  width: 100%;
+}
+#section #Question {
+  width: 95%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  font-size: 12px;
+}
+#section #Question #Quest {
+  width: 95%;
+  height: fit-content;
+  line-height: 30px;
+}
+#section #Question #Ans {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
+#section #Question #Ans #div1,
+#div2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+#section #Question #Ans #btn1,
+#btn2,
+#btn3,
+#btn4 {
+  width: 40%;
+  height: fit-content;
+  border-radius: 15px;
+  text-align: left;
+  border: 1px solid white;
+  padding: 8px;
+  font-size: 12px;
+  background-color: rgb(65, 82, 100);
+}
+#section #Question #Ans #ChooseMe {
+  display: flex;
+  background-color: rgb(33, 42, 51);
+  width: fit-content;
+  font-size: 10px;
+  padding: 5px;
+}
+#section #Question #footer {
+  height: fit-content;
+  width: 98%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /* position: relative; */
+}
+#section #Question #footer #next,
+#submit,
+#Check {
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 18px;
+  box-shadow: 0px 0px 5px 1px;
+  position: absolute;
+}
+#link {
+  text-decoration: none;
+  padding: 15px;
+  font-size: 10px;
+}
