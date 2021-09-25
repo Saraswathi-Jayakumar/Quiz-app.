@@ -26,113 +26,113 @@ function reset(){
 
 const questions=[
     {
-        Question: "1. A ------------ is a set of text or button hyperlinks that can be used to access pages in your website?",
+        Question: "1. Who won a silver in weightlifting at the Tokyo Olympics?",
         Option: [
-            "Map bar",
-            "Navigation bar",
-            "Direction bar",
-            "Route bar"
+            "Khumukcham Sanjita Chanu",
+            "Saikhom Mirabai Chanu",
+            "Punam Yadav",
+            "Renu Bala Chanu"
         ],
-        Ans:"Navigation bar",
+        Ans:"Saikhom Mirabai Chanu",
     },
 
     {
-        Question: "2. Program used to view Web Pages?",
+        Question: "2. She is currently ranked as the world's No.1 archer. Who is she?",
         Option: [
-            "Browser",
-            "Source",
-            "Text Editor",
-            "Notepad"
+            "Ankita Bhakat",
+            "Deepika Kumari",
+            "Muskan Kirar",
+            "Trisha Deb"
         ],
-        Ans:"Browser", 
+        Ans:"Deepika Kumari", 
     },
 
     {
-        Question: "3. What is the name of the location address of the hypertext documents?",
+        Question: "3. Who is the javelin thrower from Panipat?",
         Option: [
-            "Uniform Resource Locator",
-            "Web server",
-            "File",
-            "Web address"
+            "Neeraj Chopra",
+            "Ravinder Singh Khaira",
+            "Gurtej Singh",
+            "Shivpal Singh"
         ],
-        Ans:"Uniform Resource Locator", 
+        Ans:"Neeraj Chopra", 
     },
 
     {
-        Question: "4. ------------ is a collection of controls in HTML",
+        Question: "4. Who is current national champion of the women's 100 metres sprint?",
         Option: [
-            "Form",
-            "Field",
-            "Table",
-            "Frame"
+            "Bhawna Jat",
+            "Priyanka Goswami",
+            "Dutee Chand",
+            "Annu Rani"
         ],
-        Ans:"Form", 
+        Ans:"Dutee Chand", 
     },
                 
     {
-        Question: "5. HTML allows us to use ------ levels of headings.",
+        Question: "5. Who is the first Indian woman to win a silver medal at the Olympics?",
         Option: [
-            "Two",
-            "Three",
-            "Five",
-            "Six"
+            "Ankita Raina",
+            "P V Sindhu",
+            "Jwala Gutta",
+            "Ashwini Ponnappa"
         ],
-        Ans:"Six",
+        Ans:"P V Sindhu",
     },
             
     {
-        Question: "6. Which is the formal description of message formats and rules to be followed by computers?",
+        Question: "6. Who is the first Indian fencer to qualify for the Olympics?",
         Option:[
-            "Standards",
-            "Protocol",
-            "Syntax",
-            "Language"
+            "Kabita Devi",
+            "Aditi Ashok",
+            "Yashaswini Singh Deswal",
+            "Bhavani Devi"
         ],
-        Ans:"Protocol",
+        Ans:"Bhavani Devi",
     },
             
     {
-        Question: "7. Which of the following attributes specifies the name of the image file?",
+        Question: "7. Who is the captain of the Indian men's field hockey team?",
         Option:[
-            "Font",
-            "SRC",
-            "Color",
-            "Size"
+            "Manpreet Singh",
+            "Harmanpreet Singh",
+            "Hardik Singh",
+            "Gujrant Singh"
         ],
-        Ans:"SRC"
+        Ans:"Manpreet Singh"
     },  
 
     {
-        Question:"8. The communication protocol used by the Internet to transfer hypertext documents is ------------?",
+        Question:"8. Who is the captain of the Indian women's hockey team?",
         Option:[
-            "Hyper Text Internet Protocol",
-            "Hyper Text Transfer Protocol",
-            "Internet Protocol",
-            "File Transfer Protocol"
+            "Vandana Katariya",
+            "Rani Rampal",
+            "Gurjit Kaur",
+            "Neha Goyal"
         ],
-        Ans:"Hyper Text Transfer Protocol"
+        Ans:"Rani Rampal"
     },
             
     {
-        Question:"9. The primary colors are -------- ?",
+        Question:"9. The boxer who won a bronze at the Tokyo Olympics. Can you name her?",
         Option:[
-            "Red, green, yellow",
-            "Red, white, yellow",
-            "Red, green, blue",
-            "Red, yellow, blue"
+            "Lovlina Borgohain",
+            "Pooja Rani",
+            "Mary Kom",
+            "Simranjit Kaur"
         ],
-        Ans:"Red, green, blue"
+        Ans:"Lovlina Borgohain"
     },
             
     {
-        Question:"10. Transferring your HTML code from one machine to server is known as ------------?",
+        Question:"10. Who is two-time Asian champion wrestler?",
         Option:[
-            "Indexing",
-            "Hosting",
-            "Serving",
-            "Sorting"
+            "Bajrang Punia",
+            "Yogeshwar Dutt",
+            "Ravi Kumar Dahiya",
+            "Deepak Punia"
         ],
-        Ans:"Hosting"
+        Ans:"Ravi Kumar Dahiya"
     },
 ];       
 

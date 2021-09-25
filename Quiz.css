@@ -7,7 +7,6 @@ body {
   display: flex;
   flex-direction: column;
   row-gap: 30px;
-  /* justify-content: center; */
   align-items: center;
 }
 #section {
@@ -96,7 +95,6 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  /* position: relative; */
 }
 #section #Question #footer #next,
 #submit,
@@ -114,4 +112,6 @@ body {
   text-decoration: none;
   padding: 15px;
   font-size: 10px;
+  width:80%;
+  text-align: right;
 }
